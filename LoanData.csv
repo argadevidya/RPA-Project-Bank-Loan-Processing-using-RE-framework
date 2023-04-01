@@ -1,0 +1,101 @@
+﻿Title,GivenName,EmailAddress,CCType,CCNumber,Age,Occupation,TelephoneNumber,City,LoanAmount,Term,YearlyIncome,,
+Mrs.,Terry,TerryRMiller@superrito.com,Visa,4.54E+15,,Management accountant,035756 57 19,Hosena,1996,15,97658,,Age is Blank
+Mrs.,Edna,EdnaBParsons@gustr.com,Visa,4.72E+15,,Critical care nurse,06821 30 22 93,Neunkirchen,66531,10,94648,,Age is Blank
+Ms.,Amanda,AmandaAGooden@jourrapide.com,MasterCard,5.16E+15,12,Camp counselor,04741 55 30 39,Cappel,,13,40446,,LoanAmount is Blank
+Mrs.,Holly,,MasterCard,5.32E+15,12,Medical equipment repairer,07531 64 39 86,Konstanz Allmannsdorf,78464,11,99550,,Given Email Address  is Blank
+Mr.,Chester,,Visa,4.54E+15,12,Ticket clerk,05193 26 21 83,Schneverdingen,129640,1,1901,,Given Email Address  is Blank
+Mr.,Robert,,Visa,4.49E+15,14,Payroll representative,06504 31 34 67,Thalfang,54424,14,40556,,Given Email Address  is Blank
+Mr.,Gregory,,Visa,4.56E+15,15,Private investigator,09209 30 83 15,Emtmannsberg,95517,14,74797,,Given Email Address  is Blank
+Mr.,Sheldon,,Visa,4.93E+15,15,Addictions nurse,08557 78 76 38,Mauth,994151,14,1073,,Given Email Address  is Blank
+Ms.,Peggy,,Visa,4.93E+15,15,Adjuster,06244 97 84 32,Gundersheim,67598,13,76252,,Given Email Address  is Blank
+Mr.,Eric,EricLSmith@dayrep.com,MasterCard,5.29E+15,15,Urology nurse,04323 11 19 33,Damsdorf,,13,52739,,LoanAmount is Blank
+Mr.,Jesus,JesusTEdwards@dayrep.com,MasterCard,5.60E+15,15,Limousine driver,02676 74 54 76,Utzerath,,11,60932,,LoanAmount is Blank
+Mrs.,Narcisa,NarcisaWChrisman@superrito.com,MasterCard,5.58E+15,15,Office support secretary,07709 92 83 95,Wutach,79879,10,59996,,Age is Not Valid as per the Loan 
+Ms.,Lori,LoriJSaavedra@teleworm.us,MasterCard,5.40E+15,15,Semiconductor assembler,089 94 19 46,Gräfelfing,82157,9,68677,,Loan Term in Not Valid 
+Mrs.,Jan,JanJWhitlatch@superrito.com,MasterCard,5.55E+15,15,Concrete paving machine operator,09393 64 39 91,Rothenfels,97851,9,20891,,Loan Term in Not Valid 
+Mr.,Charles,,MasterCard,5.14E+15,15,Ordnance handling expert,0931 57 44 39,Würzburg,97045,8,61573,,Given Email Address  is Blank
+Mr.,Curtis,,MasterCard,5.17E+15,15,Sheet metal worker,0931 75 44 08,Würzburg,97012,7,34472,,Given Email Address  is Blank
+Mr.,Gabriel,,MasterCard,5.18E+15,15,Local truck driver,08303 58 97 09,Sulzberg,87477,7,54659,,Given Email Address  is Blank
+Mrs.,Frances,FrancesFBeauchamp@teleworm.us,MasterCard,5.21E+15,15,Immigration inspector,07231 13 67 05,Pforzheim Nordoststadt,75175,5,35515,,Age is Not Valid as per the Loan 
+Mr.,Kenneth,KennethVLockard@dayrep.com,Visa,4.54E+15,45,General maintenance and repair worker,02684 56 92 66,Raubach,156316,5,3314,, Income Condition is Not Satisfied.
+Mrs.,Ethel,EthelFSchrecengost@einrot.com,Visa,4.53E+15,32,Building inspector,07522 14 62 51,Hergatz,88145,1,89789,, 6384382108e33c665be722f2 
+Mr.,Jeremy,JeremyJLangham@jourrapide.com,MasterCard,5.52E+15,45,U.S. deputy marshal,0911 70 12 89,Nürnberg,90227,1,99158,, 6384382c08e33c665be722f3 
+Mrs.,Bethany,BethanyRJackson@cuvox.de,Visa,4.92E+15,45,Firefighter,06706 90 82 54,Münchwald,55595,15,57509,,Loan Term in Not Valid 
+Mr.,Steve,SteveRHopkins@jourrapide.com,Visa,4.54E+15,33,Information systems manager,02564 54 27 18,Vreden,48691,15,24572,,Loan Term in Not Valid 
+Mr.,Elbert,ElbertRJohns@rhyta.com,Visa,4.92E+15,45,Heat treating equipment tender,0431 64 02 70,Kiel,24148,15,49670,,Loan Term in Not Valid 
+Ms.,Jeanette,JeanetteFGilmore@fleckens.hu,MasterCard,5.24E+15,45,Textile knitting,02045 42 97 71,Bottrop Vonderort,46242,15,51403,,Loan Term in Not Valid 
+Ms.,Eloisa,EloisaAKeen@rhyta.com,MasterCard,5.14E+15,32,Office manager,06054 15 40 76,Bad Soden-Salmünster,63628,14,33593,,Loan Term in Not Valid 
+Mrs.,Stacy,StacySMoore@teleworm.us,MasterCard,5.43E+15,45,Bindery machine setter,030 78 25 90,Berlin Niederschöneweide,12439,12,74455,,Loan Term in Not Valid 
+Ms.,Theresa,TheresaCNicholes@dayrep.com,Visa,4.49E+15,33,Head hunter,035771 50 05,Bad Muskau,2951,12,55241,,Loan Term in Not Valid 
+Mr.,Brian,BrianLHolmes@jourrapide.com,MasterCard,5.12E+15,45,Commercial photographer,02389 29 94 16,Bergkamen,59192,11,41357,,Loan Term in Not Valid 
+Mr.,Larry,LarryAAlbert@superrito.com,MasterCard,5.12E+15,56,Housing relocator,040 11 70 67,Hamburg Billstedt,22113,10,47911,, 6384383f08e33c665be722f4 
+Mr.,Jeffery,JefferyMHenry@dayrep.com,Visa,4.49E+15,56,Administrative manager,036692 83 38,Albersdorf,7646,10,30455,, 6384384a08e33c665be722f5 
+Mrs.,Katrina,KatrinaGTolson@dayrep.com,MasterCard,5.48E+15,33,Tractor-trailer driver,09635 46 90 88,Bärnau,95667,8,,,YearlyIncome is Blank
+Mr.,Alfonso,AlfonsoJSmith@armyspy.com,Visa,4.93E+15,56,Stevedore,03571 99 10 11,Hoyerswerda,2966,8,,,YearlyIncome is Blank
+Mr.,Bennie,BennieAGunn@dayrep.com,Visa,4.72E+15,56,Roof bolter,03522 39 24 93,Großenhain,1553,8,,,YearlyIncome is Blank
+Mr.,Bryan,BryanPKerley@superrito.com,MasterCard,5.24E+15,56,Maintenance technician,034782 49 49,Mansfeld,6338,8,,,YearlyIncome is Blank
+Ms.,Marion,MarionCBaker@gustr.com,MasterCard,5.46E+15,56,Greenhouse manager,052 30 86 37,Arnsdorf,1475,7,43680,,Loan Term in Not Valid 
+Ms.,Lena,LenaRCole@gustr.com,MasterCard,5.25E+15,56,Delivery service truck driver,06342 36 69 75,Schweighofen,76889,7,26548,,Loan Term in Not Valid 
+Mr.,David,DavidFGonzales@gustr.com,Visa,4.93E+15,56,Marine,06734 22 28 79,Wendelsheim,55234,4,79305,,Loan Term in Not Valid 
+Mr.,John,JohnMLewis@jourrapide.com,MasterCard,5.28E+15,56,Dean,089 85 27 72,München,80798,4,54823,,Loan Term in Not Valid 
+Mr.,James,JamesJLowder@rhyta.com,MasterCard,5.20E+15,56,Film processing technician,034446 27 74,Engelsdorf,4439,1,8396,, 6384385c08e33c665be722f6 
+Mr.,Elliott,ElliottMHernandez@fleckens.hu,MasterCard,5.29E+15,56,Employee welfare manager,05254 97 05 11,Paderborn Elsen,33104,3,66520,, 6384386708e33c665be722f7 
+Mr.,Abraham,AbrahamKValverde@gustr.com,MasterCard,5.40E+15,17,Operational meteorologist,07221 43 51 98,Baden-Baden,76534,3,58333,,Age is Not Valid as per the Loan 
+Ms.,Glenna,GlennaGLovett@rhyta.com,MasterCard,5.35E+15,17,Arbitrator,0201 18 38 05,Essen,45147,2,44032,,Loan Term in Not Valid 
+Mrs.,Rhonda,RhondaPGallant@cuvox.de,Visa,4.49E+15,33,Cooling and freezing equipment tender,0971 27 74 02,Bad Kissingen,97688,2,95175,,Loan Term in Not Valid 
+Mr.,Donald,DonaldSLoy@jourrapide.com,Visa,4.53E+15,24,Engineering technician,039324 93 48,Badingen,39579,2,63395,,Loan Term in Not Valid 
+Mr.,Donald,DonaldDGard@einrot.com,Visa,4.93E+15,24,University dean,0421 14 27 24,Bremen Kattenesch,218277,1,1339,, Income Condition is Not Satisfied.
+Mr.,Roy,RoyMLadner@cuvox.de,Visa,4.93E+15,33,Lift truck operator,09861 19 86 43,Insingen,981610,1,2722,, Income Condition is Not Satisfied.
+Mrs.,Martha,MarthaFHall@teleworm.us,MasterCard,5.37E+15,16,"Extruding, forming, pressing",06571 30 84 15,Flußbach,54516,1,64072,,Age is Not Valid as per the Loan 
+Mrs.,Loretta,LorettaCLang@einrot.com,Visa,4.72E+15,16,Termite control technician,07245 76 37 19,Durmersheim,218277,1,95522,,Age is Not Valid as per the Loan 
+Mr.,Edward,EdwardJMeade@superrito.com,Visa,4.53E+15,16,Hotel desk clerk,06508 35 37 20,Hetzerath,54523,1,95831,,Age is Not Valid as per the Loan 
+Mr.,Charles,CharlesWRosado@dayrep.com,Visa,4.92E+15,16,Employee benefits specialist,06132 42 54 59,Ingelheim am Rhein,328277,1,418,,Age is Not Valid as per the Loan 
+Mrs.,Cindy,,MasterCard,5.34E+15,16,Architect,08441 61 52 31,Schweitenkirchen,485299,1,85471,,Given Email Address  is Blank
+Mr.,David,,Visa,4.49E+15,16,Gas compressor,07959 96 79 23,Rosenberg,73494,1,83862,,Given Email Address  is Blank
+Mr.,Fred,,MasterCard,5.34E+15,,Order clerk,08621 33 44 37,Trostberg,83308,1,47151,,Given Email Address  is Blank
+Ms.,Nancy,NancyCBrady@fleckens.hu,Visa,4.72E+15,,Computer operator,06872 22 36 51,Losheim,218277,1,418,,Age is Blank
+Mrs.,Shannon,ShannonJBlades@jourrapide.com,Visa,4.56E+15,16,Retail manager,0521 15 09 16,Bielefeld Gadderbaum,33617,1,30141,,Age is Not Valid as per the Loan 
+Ms.,Carol,CarolJWetherby@dayrep.com,Visa,4.56E+15,16,Applicator,0711 69 81 75,Stuttgart Zazenhausen,70439,1,97329,,Age is Not Valid as per the Loan 
+Ms.,Ruby,RubyMCornett@armyspy.com,MasterCard,5.47E+15,,Telecommunications line installer,06301 65 58 31,Otterberg,67697,1,46523,,Age is Blank
+Mrs.,Marcia,MarciaJVann@armyspy.com,MasterCard,5.19E+15,,News camera operator,06762 89 72 93,Kastellaun,56288,3,24512,,Age is Blank
+Mrs.,Doris,DorisJTurner@cuvox.de,Visa,4.56E+15,36,Metallurgical engineer,03302 71 94 28,Hennigsdorf,16752,3,65593,, 6384388108e33c665be722f8 
+Ms.,Rochelle,RochelleCLee@einrot.com,Visa,4.93E+15,37,Psychologist,0211 97 26 57,Düsseldorf Lichtenbroich,40472,3,27542,, 6384388c08e33c665be722f9 
+Mr.,Gerald,GeraldBFajardo@jourrapide.com,MasterCard,5.21E+15,37,Teletype operator,06362 54 35 71,Finkenbach-Gersweiler,,3,78145,,LoanAmount is Blank
+Ms.,Carrie,CarrieWAnderson@superrito.com,MasterCard,5.19E+15,38,Real estate rental agent,09841 32 51 66,Bad Windsheim,,3,49907,,LoanAmount is Blank
+Ms.,Frances,FrancesCGonzalez@fleckens.hu,MasterCard,5.15E+15,38,Parole officer,09721 73 56 28,Schweinfurt,,3,566,,LoanAmount is Blank
+Mrs.,Mary,MaryJWilliams@cuvox.de,Visa,4.54E+15,38,Fork lift operator,06302 84 62 04,Münchweiler an der Alsenz,,3,986,,LoanAmount is Blank
+Ms.,Carmen,CarmenVWhelchel@teleworm.us,MasterCard,5.17E+15,38,Municipal court judge,09356 40 19 63,Mittelsinn,,3,89764,,LoanAmount is Blank
+Ms.,Helen,HelenIContreras@cuvox.de,MasterCard,5.17E+15,39,Food technologist,071 44 63 28,Reutlingen Lerchenbuckel,72762,3,,,YearlyIncome is Blank
+Mrs.,Tammy,TammyEEaddy@fleckens.hu,MasterCard,5.19E+15,40,Hospice nurse,08453 71 96 14,Ebenhausen,82067,3,,,YearlyIncome is Blank
+Mr.,Wayne,WaynePRamsey@einrot.com,MasterCard,5.36E+15,40,Footwear and accessory designer,0384 10 77 50,Bützow,918241,3,,,YearlyIncome is Blank
+Mr.,Phillip,PhillipPLayton@superrito.com,Visa,4.93E+15,41,Pamphlet binding worker,03423 86 93 75,Eilenburg,4832,3,,,YearlyIncome is Blank
+Mr.,Emmett,EmmettSSimmons@cuvox.de,Visa,4.49E+15,41,Forging machine operator,0208 70 66 72,Mülheim an der Ruhr,145472,3,,,YearlyIncome is Blank
+Mrs.,Sally,SallyTColon@dayrep.com,Visa,4.72E+15,42,Dental hygienist,05142 91 49 99,Habighorst,29359,3,40473,, 6384389f08e33c665be722fa 
+Mr.,Brandon,BrandonDGreen@dayrep.com,MasterCard,5.40E+15,43,Commercial and industrial designer,04553 53 27 34,Geschendorf,23815,5,68443,, 638438aa08e33c665be722fb 
+Mr.,Ronald,RonaldMMiller@jourrapide.com,MasterCard,5.48E+15,46,Card punching machine operator,03631 53 11 55,Nordhausen,99722,6,58937,,Loan Term in Not Valid 
+Mrs.,Claudette,,Visa,4.72E+15,46,Climatologist,09522 17 33 81,Ebelsbach,500,6,660,,Given Email Address  is Blank
+Mrs.,Shana,,MasterCard,5.22E+15,46,School and college counselor,07455 99 27 56,Dornhan,72175,6,20110,,Given Email Address  is Blank
+Mr.,Michael,,MasterCard,5.49E+15,48,Job binding worker,0911 67 31 69,Nürnberg,90244,6,97044,,Given Email Address  is Blank
+Mrs.,Lupe,LupeBDwight@cuvox.de,MasterCard,5.36E+15,48,Forensic nurse,0761 60 07 47,Freiburg Munzingen,79112,6,55425,,Loan Term in Not Valid 
+Mr.,Luther,LutherBWhite@jourrapide.com,MasterCard,5.42E+15,50,Truck driver,06221 59 49 61,Heidelberg Peterstal,9118,6,2477,,Loan Term in Not Valid 
+Mrs.,Cheryl,CherylGFitch@gustr.com,Visa,4.53E+15,52,Prosthodontist,02681 40 69 48,Fluterschen,,6,28704,,LoanAmount is Blank
+Mrs.,Ann,AnnBGarrett@jourrapide.com,Visa,4.49E+15,53,Computer typesetter,04823 83 36 96,Wilster,,6,21937,,LoanAmount is Blank
+Mr.,John,JohnMGriggs@superrito.com,Visa,4.56E+15,54,Gaming and sports runner,09221 31 62 95,Kulmbach,,6,5173,,LoanAmount is Blank
+Ms.,Tammi,TammiMThompson@superrito.com,MasterCard,5.33E+15,54,Musical instrument tuner,0385 56 08 68,Schwerin,,6,41046,,LoanAmount is Blank
+Mr.,James,JamesTBolanos@dayrep.com,Visa,4.93E+15,56,Cash manager,0721 42 02 60,Karlsruhe Weststadt,76133,6,90978,,Loan Term in Not Valid 
+Mr.,Donald,DonaldSPinette@dayrep.com,MasterCard,5.45E+15,57,Computer,089 55 81 78,Ottobrunn,985502,6,8874,,Loan Term in Not Valid 
+Mrs.,Christine,ChristineJBrown@armyspy.com,Visa,4.49E+15,57,Terrazzo worker,0711 68 23 26,Stuttgart Zuffenhausen,70376,6,69409,,Loan Term in Not Valid 
+Mrs.,Joyce,JoyceJBurns@jourrapide.com,MasterCard,5.13E+15,57,Library media assistant,08628 62 15 53,Kienberg,183361,5,2841,, Income Condition is Not Satisfied.
+Mr.,Carlos,CarlosKHagans@dayrep.com,Visa,4.93E+15,58,Intructional coordinator,04193 47 56 06,Henstedt-Ulzburg,124547,5,515,, Income Condition is Not Satisfied.
+Mr.,James,JamesHMoore@jourrapide.com,Visa,4.93E+15,58,Pipelayer,07621 13 05 26,Lörrach Tüllingen,679541,10,89571,, Income Condition is Not Satisfied.
+Dr.,Edwin,EdwinOParson@superrito.com,Visa,4.56E+15,59,Real-time captioner,08207 13 88 47,Aindling,186445,10,7642,, Income Condition is Not Satisfied.
+Mr.,Jermaine,JermaineVBadgley@cuvox.de,MasterCard,5.21E+15,60,Songwriter,02602 73 34 82,Daubach,955566,10,666,, Income Condition is Not Satisfied.
+Ms.,Kara,KaraCLipscomb@superrito.com,Visa,4.72E+15,60,Usher,079 44 16 46,Heilbronn Frankenbach,74080,10,68132,, 638438c508e33c665be722fc 
+Ms.,Melissa,MelissaGMarshall@dayrep.com,Visa,4.93E+15,63,Brazing worker,06569 72 84 55,Dahlem,54636,10,96405,, 638438d108e33c665be722fd 
+Mr.,Robert,RobertKArcher@armyspy.com,Visa,4.54E+15,64,Geoscientist,02375 32 14 45,Balve,58802,10,53162,, 638438dc08e33c665be722fe 
+Ms.,Linda,LindaEMurphy@armyspy.com,MasterCard,5.54E+15,65,Payroll clerk,04551 38 42 82,Bad Segeberg,823785,10,5641,, Income Condition is Not Satisfied.
+Mrs.,Elizabeth,ElizabethBWillis@dayrep.com,MasterCard,5.17E+15,68,Personnel analyst,040 25 76 35,Hamburg Barmbek-Süd,22305,10,62419,, 638438e708e33c665be722ff 
+Mr.,Norman,NormanEMurdock@gustr.com,MasterCard,5.23E+15,69,Stevedore,0711 76 72 96,Stuttgart Sonnenberg,70597,10,24735,, 638438f208e33c665be72300 
+Mrs.,Irene,IreneJConner@armyspy.com,Visa,4.49E+15,70,Procurement clerk,08230 17 43 16,Langweid,86460,10,76830,, 638438fd08e33c665be72301 
+Mr.,Jesse,JesseKFreitas@dayrep.com,Visa,4.93E+15,72,Estimator project manager,09871 67 14 88,Neuendettelsau,991562,10,8092,, Income Condition is Not Satisfied.
+Mr.,Ralph,RalphLMitchell@teleworm.us,MasterCard,5.17E+15,73,Eligibility interviewer,07426 92 13 74,Gosheim,978559,10,5622,, Income Condition is Not Satisfied.
