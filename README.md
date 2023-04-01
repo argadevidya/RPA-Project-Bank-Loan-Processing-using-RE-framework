@@ -7,12 +7,7 @@ RPA Project Bank Loan Processing using RE framework
 ## Vertical:		Banking and Finance
 ## Department:	Loan
 
-### Steps:
-  •	Define the problem statement<br>
-  •	PDD<br>
-  •	SDD<br>
-  •	End to end Automation<br>
-  
+
 Processes such as loan management require a great deal of paperwork, data checks, and dependencies. Today’s customer expects quick, easy access to loan services at the time, place, and channel of their choosing. They seek loan products tailored to their specific needs that are available through their preferred channel and have quick approvals.<br>
 
 Robotic process automation (RPA) has been assisting lenders in gaining a competitive advantage during the loan origination process. RPA’s use in loan management has allowed banks to automate processes.<br>
@@ -21,11 +16,17 @@ Simply put, robotic process automation is the technology that replaces human act
 
 Implementing RPA in loan processing can speed up processes, increase reliability, and reduce labour-intensive tasks by shifting the burden to robots and freeing the workforce to perform more complex tasks. RPA in loan processing can strengthen existing banking mechanisms while also assisting the industry in scaling its growth.
 
+### Steps:
+  •	Define the problem statement<br>
+  •	PDD<br>
+  •	SDD<br>
+  •	End to end Automation<br>
+
 <img src="https://user-images.githubusercontent.com/122998236/229280832-fa1c5f4c-e8cd-4b42-bade-8017d9010ee9.jpeg" width="400" height="200" />
 
 ### Manual task in banks for Loan application processing:
 
-* In a bank there are many people who apply for a loan. Daily or weekly basis bank receives a mail having data of the customers who want to apply for a loan.
+* In a bank there are many people who apply for a loan. Daily or weekly basis bank receives an Email having data of the customers who want to apply for a loan.
 
 * There is the person in the loan department who is actually going through the mail every day and validates the attachment the mail has valid or not valid .is the data inside the application is proper not proper.
 * Is it following the bank standards ?is it following the loan requirement? What is the loan amount they are expecting? And all the details he validates one by one.
