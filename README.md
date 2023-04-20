@@ -24,7 +24,7 @@ Implementing RPA in loan processing can speed up processes, increase reliability
 
 <img src="https://user-images.githubusercontent.com/122998236/229280832-fa1c5f4c-e8cd-4b42-bade-8017d9010ee9.jpeg" width="400" height="200" />
 
-### Manual task in banks for Loan application processing:
+## Manual task in banks for Loan application processing:
 
 * In a bank there are many people who apply for a loan. Daily or weekly basis bank receives an Email having data of the customers who want to apply for a loan.
 
@@ -32,7 +32,7 @@ Implementing RPA in loan processing can speed up processes, increase reliability
 * Is it following the bank standards ?is it following the loan requirement? What is the loan amount they are expecting? And all the details he validates one by one.
 * For all the valid records of excel, whichever he finds appropriate, he passes it to a different department where they actually feed all the valid data into the system and they grant the loan. Or they generate a loan id.
 
-### Loan application processing using RPA:
+## Loan application processing using RPA:
 
 * Robot first opens an email, downloads an attachment which includes data of all customers who apply for a loan through a bank portal. This customer data is available as .xlsx file.
 * Customer data then processed by the automation robot to check for data validation. As per eligibility what bank offers, it filters out the loan applicant’s data.
