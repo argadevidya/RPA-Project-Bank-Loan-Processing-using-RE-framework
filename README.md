@@ -39,3 +39,22 @@ Implementing RPA in loan processing can speed up processes, increase reliability
 * Those who are eligible for loan, robot fills data in loan application processing form on bank website for them.
 * If data is valid, bank generates loan id. Robot writes this number in excel for each applicant. And also updates status of application for other rejected loan applicants in excel.
 
+## Technical Skills
+The following technical skills are required to understand and modify this project:
+
+*  UiPath Studio: UiPath Studio is the primary tool used to develop and modify the project. A basic understanding of UiPath Studio is necessary to modify the project code.
+*  RE Framework: The project is built on top of UiPath's RE Framework, which is designed to promote reusability, modularity, and maintainability of the code. A good understanding of the RE Framework is necessary to modify and extend the project code.
+*  Microsoft Excel: The loan application data is stored in an Excel spreadsheet. A basic understanding of Excel is necessary to modify the loan application data.
+*  Email: The project sends email notifications to the applicants regarding the status of their loan application. A basic understanding of email systems is necessary to configure and use this feature.
+
+## Deployment
+  To deploy this project in a production environment, follow these steps:
+
+ * Modify the Config.xlsx file to include the production environment settings, such as email server details, credentials, etc.
+ * Package the project using UiPath Studio's Package Manager.
+ * Deploy the package to the production environment using UiPath Orchestrator or any other deployment tool.
+ * Schedule the automation process to run at regular intervals using UiPath Orchestrator or any other scheduling tool.
+ * Monitor the automation process using UiPath Orchestrator or any other monitoring tool.
+
+## Conclusion
+This project demonstrates how UiPath's RE Framework can be used to automate complex business processes such as loan application processing for a bank. The project can be easily extended to include additional features such as generating reports, integrating with external systems, and more. With proper deployment and monitoring, this project can significantly reduce the time and cost involved in loan application processing for a bank.
